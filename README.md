@@ -15,10 +15,6 @@
 10. Annie Hall
 
 
-
-
-
-
 # Action Movies
 
 - Taken
@@ -45,4 +41,15 @@
 - How To Train Your Dragon
 - Lilo & Stitch
 
+#Horror movies 
 
+- The Exorcist
+- Psycho
+- Alien
+- Dracula 
+- The silence of the Lambs 
+- The Shining 
+- Poltegeist 
+- The Ring 
+- A Nigtmare of Elm Street 
+- The Babadook
