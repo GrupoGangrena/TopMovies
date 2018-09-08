@@ -13,6 +13,7 @@
 8. The Philadelphia Story
 9. Gone with the Wind
 10. Annie Hall
+
 ***
 ## Drama Movies
 
@@ -26,6 +27,7 @@
 8. The Maltese Falcon
 9. Argo
 10. 12 Years a Slave
+
 
 # Action Movies
 
@@ -53,4 +55,15 @@
 - How To Train Your Dragon
 - Lilo & Stitch
 
+# Horror movies 
 
+- The Exorcist
+- Psycho
+- Alien
+- Dracula 
+- The silence of the Lambs 
+- The Shining 
+- Poltegeist 
+- The Ring 
+- A Nigtmare of Elm Street 
+- The Babadook
