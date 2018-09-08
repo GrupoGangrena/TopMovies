@@ -67,3 +67,17 @@
 - The Ring 
 - A Nigtmare of Elm Street 
 - The Babadook
+
+# super heroes movies
+
+- black panter
+- spider man: regreso a casa
+- Wonder woman
+- Avengers Infiniti Wars
+- Ant mant
+- Guardians Galax
+- Dead Pool
+- thor
+- Justice League
+- Logan
+
