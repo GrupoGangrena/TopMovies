@@ -14,6 +14,20 @@
 9. Gone with the Wind
 10. Annie Hall
 
+***
+## Drama Movies
+
+1. Citizen Kane
+2. Moonlight
+3. All About Eve
+4. Metropolis
+5. The Godfather
+6. La Grande Illusion
+7. Boyhood
+8. The Maltese Falcon
+9. Argo
+10. 12 Years a Slave
+
 
 # Action Movies
 
