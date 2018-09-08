@@ -41,7 +41,7 @@
 - How To Train Your Dragon
 - Lilo & Stitch
 
-#Horror movies 
+# Horror movies 
 
 - The Exorcist
 - Psycho
