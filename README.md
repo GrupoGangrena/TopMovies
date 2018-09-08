@@ -17,3 +17,17 @@
 - Skyfall
 - Alien
 - The Bourne Identity
+
+# Animation Movies
+
+- Toy Story
+- The Lion King
+- The Incredibles
+- Shrek
+- Frozen
+- Finding Nemo
+- Inside Out
+- Monsters Inc. 
+- How To Train Your Dragon
+- Lilo & Stitch
+
